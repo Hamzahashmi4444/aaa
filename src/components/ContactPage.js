@@ -17,8 +17,7 @@ class ContactPage extends Component {
         <div className="contact-page__address">
           <FaMapMarker />
           <p>
-            The Law Company Suite 10, 5th Floor, SAF Centre, 8 Fane Road.
-            Lahore.
+       Chamber no 119 exective block DBA,Sialkot
           </p>
         </div>
       </div>
